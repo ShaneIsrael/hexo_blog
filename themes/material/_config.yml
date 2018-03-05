@@ -147,7 +147,7 @@ sns_share:
 sidebar:
     dropdown:
         Email Me:
-            link: "shanemisrael@gmail.com"
+            link: "mailto:shanemisrael@gmail.com"
             icon: email
     homepage:
         use: true
