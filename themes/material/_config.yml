@@ -156,7 +156,7 @@ sidebar:
     archives:
         use: true
         icon: inbox
-        divider: false
+        divider: true
     categories:
         use: false
         icon: chrome_reader_mode
@@ -165,13 +165,13 @@ sidebar:
         About:
             link: "/about"
             icon: person
-            divider: true
+            divider: false
     article_num:
         use: false
         divider: false
     footer:
         divider: true
-        theme: true
+        theme: false
         support: false
         feedback: false
         material: false
