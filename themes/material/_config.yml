@@ -165,7 +165,7 @@ sidebar:
         About:
             link: "/about"
             icon: person
-            divider: false
+            divider: true
     article_num:
         use: false
         divider: false
