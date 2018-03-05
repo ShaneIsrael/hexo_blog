@@ -56,6 +56,18 @@ thumbnail:
     purecolor:
     random_amount: 19
 
+# Available value for `prettify` or `hanabi`: true | false
+# You can only enable one of them to avoid issues. Also you need to check highlight option in _config.yaml. Make sure that default hexo built in highlight plugin is disabled.
+#        highlight:
+#            enable: false
+#
+#     Prettify
+#         theme value:
+#         theme-name  # /vendors/prettify/themes/[theme-name].css
+prettify:
+  enable: false
+  theme: "vibrant-ink" # default value: "vibrant-ink"   # theme-name without '.css'
+  
 # Background Settings
 # bing available parameter:
 #     new | color= | type=
@@ -120,7 +132,7 @@ toc:
 
 # SNS Menu
 sns:
-    email: youremail@email.com
+    email: shanemisrael@gmail.com
     facebook: "https://www.facebook.com/facebook"
     twitter: "https://twitter.com/twitter"
     googleplus: "https://www.google.com/"
@@ -135,10 +147,10 @@ sns:
 
 # SNS Share Switch
 sns_share:
-    twitter: true
-    facebook: true
-    googleplus: true
-    weibo: true
+    twitter: false
+    facebook: false
+    googleplus: false
+    weibo: false
     linkedin: false
     qq: false
     telegram: false
@@ -203,7 +215,7 @@ comment:
 # Available value:
 #     swiftype | google | local
 search:
-    use: google
+    use: local
     swiftype_key:
 
 # Analytics Systems
