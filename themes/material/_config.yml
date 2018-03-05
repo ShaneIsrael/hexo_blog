@@ -33,7 +33,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Hi, nice to meet you"
+    slogan: "Drones, Cars, and other things!"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -56,18 +56,6 @@ thumbnail:
     purecolor:
     random_amount: 19
 
-# Available value for `prettify` or `hanabi`: true | false
-# You can only enable one of them to avoid issues. Also you need to check highlight option in _config.yaml. Make sure that default hexo built in highlight plugin is disabled.
-#        highlight:
-#            enable: false
-#
-#     Prettify
-#         theme value:
-#         theme-name  # /vendors/prettify/themes/[theme-name].css
-prettify:
-  enable: false
-  theme: "vibrant-ink" # default value: "vibrant-ink"   # theme-name without '.css'
-  
 # Background Settings
 # bing available parameter:
 #     new | color= | type=
@@ -82,9 +70,9 @@ background:
 
 # Images Settings
 img:
-    logo: "/img/logo.png"
+    logo: "/img/logo.jpg"
     avatar: "/img/avatar.png"
-    daily_pic: "/img/daily_pic.png"
+    daily_pic: "/img/daily_pic.jpg"
     sidebar_header: "/img/sidebar_header.png"
     random_thumbnail: "/img/random/material-"
     footer_image:
