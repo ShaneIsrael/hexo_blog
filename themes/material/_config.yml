@@ -156,11 +156,11 @@ sidebar:
     archives:
         use: true
         icon: inbox
-        divider: true
-    categories:
-        use: false
-        icon: chrome_reader_mode
         divider: false
+    categories:
+        use: true
+        icon: chrome_reader_mode
+        divider: true
     pages:
         About:
             link: "/about"
