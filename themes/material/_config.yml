@@ -33,7 +33,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Fast Drones, Fast Cars, and other random things!"
+    slogan: "Fast Drones. Fast Cars. And other random stuff!"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -71,7 +71,7 @@ background:
 # Images Settings
 img:
     logo: "/img/user_avatar.png"
-    avatar: "/img/avatar.png"
+    avatar: "/img/user_avatar.png"
     daily_pic: "/img/header.png"
     sidebar_header: "/img/sidebar.png"
     random_thumbnail: "/img/random/material-"
