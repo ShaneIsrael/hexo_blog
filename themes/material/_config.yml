@@ -70,7 +70,7 @@ background:
 
 # Images Settings
 img:
-    logo: "/img/avatar.png"
+    logo: "/img/user_avatar.png"
     avatar: "/img/avatar.png"
     daily_pic: "/img/header.png"
     sidebar_header: "/img/sidebar.png"
