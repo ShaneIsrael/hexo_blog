@@ -1,14 +1,16 @@
 ---
 title: FPV Drone Racing
-thumbnail: /img/thumbnails/drone-racing-hobby-1.jpg
-date: 2018-03-06 13:16:02
-categories:
-	- [Drones, Racing]
 tags:
-	- drone racing
-	- drones
-	- fpv
+  - drone racing
+  - drones
+  - fpv
+thumbnail: /img/thumbnails/drone-racing-hobby-1.jpg
+categories:
+  - - Drones
+    - Racing
+date: 2018-03-06 13:16:02
 ---
+
 
 ## Why I'm hooked...
 
