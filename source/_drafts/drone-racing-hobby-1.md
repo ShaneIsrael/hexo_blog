@@ -1,3 +1,15 @@
+---
+title: FPV Drone Racing
+thumbnail: /img/thumbnails/drone-racing-hobby-1.jpg
+date: 2018-03-06 13:16:02
+categories:
+	- [Drones, Racing]
+tags:
+	- drone racing
+	- drones
+	- fpv
+---
+
 ## Why I'm hooked...
 
 FPV (first person view) drone racing is a new hobby and sport that recently has started to gain a lot of traction and attention. So much so that there are now national and international competitions; ESPN even created a Drone Racing League of its own that airs on national television featuring some of the best FPV flyers in the country.
