@@ -53,7 +53,7 @@ Since owning the car I have been doing a lot of research into what modifications
 
 I found that Ford Performance has a sort of warranty deal with Mountune. Meaning certain aftermarket parts from Mountune will not void your warranty. They also have nothing but fantastic reviews from their customers, and thus I purchased an upgrade intake system and a professional tune from them. The tune is done over email, they send you a tune, you drive on it and data log it, send them back data logs, they make adjustments and send you an updated tune, rinse & repeat. 
 
-I don't particularly want to go mod crazy on the car and end up destroying it so after doing my research I figure the intake + tune should be more than enough to really bring the car alive. I purchased these in January while they had a holiday sale going on with the intent to install them after I get the headgasket replaced on the car because of the recall. 
+I don't particularly want to go mod crazy on the car and end up destroying it so after doing my research I figure the intake + tune should be more than enough to really bring the car alive. I purchased these in January while they had a holiday sale going on with the intent to install them after I get the headgasket replaced on the car because of the recall.
 
 ### Headgasket Recall
 
@@ -71,6 +71,17 @@ With the intake + tune, this is what Mountune expects the at wheel horsepower an
 {% asset_img "stock_vs_tuned.jpg" "Stock w/ parts vs Tuned w/ parts" %}
 
 It may not look like much but its all about the area under the curve. The amount of area gained is huge and very much noticeable when driving. The car feel even better than it did before, way more responsive and quicker with less turbo lag over stock.
+
+### Current Upgrades
+
+Here is a short list of upgrades that are currently installed on the car.
+
+* Mountune High Flow Air Filter
+* Mountune Cold Air Intake
+* Mountune ProTune
+* Boomba BOV
+* WC Latheworks	Metal Lathed Shifter
+
 
 ### Future Upgrades
 
