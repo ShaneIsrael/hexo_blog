@@ -15,6 +15,8 @@ date: 2018-03-07 21:57:47
 
 ## Why a Focus RS?
 
+{% asset_img "muddy-rs.jpg" %}
+
 ### A little history lesson
 I graduated College with a Bachelors in Computer Science in May of 2015 and started working at SoFi here in Helena, MT as a software engineer. At the time I was still driving a white 2000 Grand Am and while the car did through college it felt like I needed an upgrade. So around September of that year I bought a 09' Subaru Outback Sport and it was amazing, it handled well and driving in the winter was a breeze. Now my two main goals ever since I started College were..  
 
