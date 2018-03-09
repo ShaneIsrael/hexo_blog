@@ -1,5 +1,5 @@
 ---
-title: My 17' Focus RS
+title: My '17 Focus RS
 tags:
   - Cars
   - Racing
@@ -18,7 +18,7 @@ date: 2018-03-07 21:57:47
 {% asset_img "muddy-rs.jpg" %}
 
 ### A little history lesson
-I graduated College with a Bachelors in Computer Science in May of 2015 and started working at SoFi here in Helena, MT as a software engineer. At the time I was still driving a white 2000 Grand Am and while the car did through college it felt like I needed an upgrade. So around September of that year I bought a 09' Subaru Outback Sport and it was amazing, it handled well and driving in the winter was a breeze. Now my two main goals ever since I started College were..  
+I graduated College with a Bachelors in Computer Science in May of 2015 and started working at SoFi here in Helena, MT as a software engineer. At the time I was still driving a white 2000 Grand Am and while the car did through college it felt like I needed an upgrade. So around September of that year I bought a '09 Subaru Outback Sport and it was amazing, it handled well and driving in the winter was a breeze. Now my two main goals ever since I started College were..  
 
 	1. Graduate College
 	2. If successfully completed goal #1. Buy my dream car.
@@ -35,7 +35,7 @@ The Focus ST is great and all but it has one little problem that I just cant get
 ### Locating an RS
 At this point I'm sold, I no longer want a WRX or STI. Partially because they have been using the same engine and AWD system for the last 10+ years. I now want this technological master piece. The problem though, where in Montana can I even find one? Looking around out the major dealers I came up with nothing. Reading the forums I discovered since they are in such high demand any dealerships that do get them will mark the price up by 10-15k dollars. It wasn't long before I started to give up on finding one near me let alone at a non-marked up price. Just out of curiosity I wanted to see where at the closest RS to me was located so I got on my computer and found an online tool to search all dealerships within a radius. I entered in the information, and chose to sort by nearest. 
 
-Boom. Just 4.5 hours away in Whitefish, MT was a 17' Focus RS in Nitrous Blue and only 25 miles on it, and the best part? It was listed at MSRP. I jumped at the opportunity. On September 9th, 2017 I had my friend take me to Whitefish where I test drove the car and signed the papers. On the way back we pit stopped at his gran-parents and I took some photos. 
+Boom. Just 4.5 hours away in Whitefish, MT was a '17 Focus RS in Nitrous Blue and only 25 miles on it, and the best part? It was listed at MSRP. I jumped at the opportunity. On September 9th, 2017 I had my friend take me to Whitefish where I test drove the car and signed the papers. On the way back we pit stopped at his gran-parents and I took some photos. 
 
 {% asset_img "20170909_151410.jpg" "Day #1 with the RS" %}
 </br>
@@ -45,7 +45,7 @@ Boom. Just 4.5 hours away in Whitefish, MT was a 17' Focus RS in Nitrous Blue an
 
 My initial impressions with the car were pure shock and awe. Shock in that I still couldn't believe I was driving a Focus RS 4.5 hours home. It was definitely one of the most fun cross state trips I have ever done. The amount of power the car put out was insane, it pulled you to your seat when you stepped on it. Having never owned a car with that much power it took me a good 2 hours into the trip before I wasn't nervous every time I stepped on the throttle. 
 
-The next couple months up into winter I really got to know the car, every single morning I got into the car and drove to work were probably the best parts of the day. The car never stopped being a thrill to drive and still hasn't too this day _albeit its only been 6_ but I don't imagine that will change anytime soon. 
+The next couple months up into winter I really got to know the car, every single morning I got into the car and drove to work were probably the best parts of the day. The car never stopped being a thrill to drive and still hasn't too this day _albeit its only been 6 months_ but I don't imagine that will change anytime soon. 
 
 ## Power Upgrades
 
