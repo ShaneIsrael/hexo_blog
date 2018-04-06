@@ -11,7 +11,7 @@ date: 2018-04-06 09:59:00
 
 A completely unbiased review on the two cookies I happened to buy when the girl scouts flooded our office.
 
-# Girl scoute cookies, what are they really?
+# Girl scout cookies, what are they really?
 
 Crack. They are basically crack. 
 
@@ -53,3 +53,6 @@ Long story short I regret buying the 3 boxes of Tagalongs and should have instea
 # The Verdict
 
 Don't be stupid. Buy Samoas.
+
+Also here is a neat video on how they are made.
+{% iframe "https://www.youtube.com/embed/BWp5WAFGV60" 560 315 %}
