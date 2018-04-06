@@ -1,10 +1,10 @@
 ---
 title: Samoas VS Tagalongs
 tags:
-  - food
+  - Food
 thumbnail: /img/thumbnails/girl-scout-cookies.jpg
 categories:
-  - food
+  - Food
 date: 2018-04-06 09:59:00
 ---
 
