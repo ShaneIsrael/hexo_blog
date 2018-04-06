@@ -17,7 +17,7 @@ Crack. They are basically crack.
 
 # But.. why?
 
-When I purchased 6 boxes of these cookies from a coworkers daughter I did not anticipate writing a blog post about them. However, after much discussion in the office it became apparent that theres is a big following behind two of the girl scout cookie brands; Tagalongs and Somoas. I just so happened to have purchase 3 boxes of each.
+When I purchased 6 boxes of these cookies from a coworkers daughter I did not anticipate writing a blog post about them. However, after much discussion in the office it became apparent that there is a big following behind two of the girl scout cookie brands; Tagalongs and Somoas. I just so happened to have purchased 3 boxes of each.
 
 # The Review
 
